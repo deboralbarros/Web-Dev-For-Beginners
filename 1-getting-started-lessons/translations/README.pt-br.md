@@ -4,7 +4,7 @@ Nesta seção do currículo, você será apresentado a conceitos não baseados e
 
 ### Tópicos
 
-1. [Introdução a Linguagens de Programação e Ferramentas do Mercado](1-intro-to-programming-languages/README.md)
+1. [Introdução a Linguagens de Programação e Ferramentas do Mercado](1-intro-to-programming-languages/translations/README.pt-br.md)
 2. [Fundamentos de Github](2-github-basics/README.md)
 3. [Fundamentos de acessibilidade](3-accessibility/README.md)
 

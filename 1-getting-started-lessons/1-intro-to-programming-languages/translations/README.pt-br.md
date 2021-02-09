@@ -196,4 +196,4 @@ Estude um pouco sobre as diferentes linguagens à disposição do programador. T
 
 ## Tarefa
 
-[Lendo os dcoumentos](assignment.md)
+[Lendo os dcoumentos](assignment.pt-br.md)
